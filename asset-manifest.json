@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/waiter-app/static/css/main.97b8f8bb.css",
+    "main.js": "/waiter-app/static/js/main.728a4722.js",
+    "static/media/error.gif": "/waiter-app/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Order illustration.svg": "/waiter-app/static/media/Order illustration.15757af37432de3d1119c0773e4ec2b2.svg",
+    "static/media/Safe Food.svg": "/waiter-app/static/media/Safe Food.26c5c6d696c0e2b61ea6749ffbb0aa79.svg",
+    "static/media/Order Success.svg": "/waiter-app/static/media/Order Success.7dc984afd007a42b1630bf185e2ce783.svg",
+    "static/media/bi_basket-fill.svg": "/waiter-app/static/media/bi_basket-fill.76e854d844e730ff9aea331126d50de0.svg",
+    "static/media/Frame.svg": "/waiter-app/static/media/Frame.c20c1906eca31264bbd8d6fd63b3289c.svg",
+    "static/media/Frame11.svg": "/waiter-app/static/media/Frame11.a13f91c2a6cf14028184517fbc1e7256.svg",
+    "static/media/ant-design_like-filled.svg": "/waiter-app/static/media/ant-design_like-filled.20046ab22cd80f6af6aff6f1fd3c8136.svg",
+    "static/media/Framer22.svg": "/waiter-app/static/media/Framer22.65efa8d7c43d2c6464ce27ece982aaf4.svg",
+    "static/media/Framr2.svg": "/waiter-app/static/media/Framr2.ee10df09b197652497f741e8afca2c78.svg",
+    "index.html": "/waiter-app/index.html",
+    "static/media/arrow-left-solid.svg": "/waiter-app/static/media/arrow-left-solid.24c9e4bd83cd574a8e45071e9119e6de.svg",
+    "main.97b8f8bb.css.map": "/waiter-app/static/css/main.97b8f8bb.css.map",
+    "main.728a4722.js.map": "/waiter-app/static/js/main.728a4722.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b8f8bb.css",
+    "static/js/main.728a4722.js"
+  ]
+}
